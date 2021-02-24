@@ -1,0 +1,10 @@
+.body_background{
+background-image: url("https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+background-position: center;
+background-size: cover;
+}
+#myCanvas{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
